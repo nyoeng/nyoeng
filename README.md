@@ -1,5 +1,5 @@
 <a href="s">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nyoeng&theme=material-palenight&show_icons=true&hide_border=true" width="50%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nyoeng&theme=material-palenight&show_icons=true&hide_border=true" />
   </a>
 
 ### 🐥 Avtivity & Award
