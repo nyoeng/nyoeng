@@ -1,3 +1,7 @@
+<a href="s">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nyoeng&theme=material-palenight&show_icons=true&hide_border=true" width="50%" />
+  </a>
+
 ### 🐥 Avtivity & Award
 - 2025.3~2025.11 경북대학교 구름톤 UNIV 4기 수료 (DE)
 - 2025.8 다움 대학생 리얼톤 우수상 (DE)
