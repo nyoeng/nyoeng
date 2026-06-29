@@ -8,6 +8,7 @@
 - 2025.9~ GDGoc on KNU 멤버 (FE)
 - 2025.12 경북대학교 I&T 융합 프로젝트 입상 (DE)
 - 2026.3~ GDGoc on KNU 운영진 (DE)
+- 2026.6 CODE:MEDI 해커톤 대상 (FE)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nyoeng&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/nyoeng"
