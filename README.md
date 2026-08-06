@@ -9,7 +9,8 @@
 - 2025.12 경북대학교 I&T 융합 프로젝트 입상 (DE)
 - 2026.3~ GDGoc on KNU 운영진 (DE)
 - 2026.6 CODE:MEDI 해커톤 대상 (FE)
-- 2026.7 베트남 하계 인턴십 - DataHouse Danang (FS)
+- 2026.6 한국정보기술학회 하계종합학술대회 대학생 논문경진대회 동상
+- 2026.7 DataHouse, Đà Nẵng, Vietnam 인턴 수료 (FS)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nyoeng&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/nyoeng"
