@@ -3,10 +3,11 @@
 </a>
 
 ### 🐥 Avtivity 
-- 2025.3~2025.11 경북대학교 구름톤 UNIV 4기 수료 (DE)
-- 2025.9~2026.8 GDGoc on KNU 멤버 (FE)
-- 2026.3~2026.8 GDGoc on KNU 운영진 (DE)
-- 2026.7 DataHouse, Đà Nẵng, Vietnam 인턴 수료 (FS)
+- 2025.3~2025.11 경북대학교 구름톤 UNIV 4기 (DE)
+- 2025.9~2026.8 GDGoc on KNU 5th member (FE)
+- 2026.3~2026.8 GDGoc on KNU 5.5th CORE (DE)
+- 2026.7 DataHouse, Đà Nẵng, Vietnam, software intern (FS)
+- 2026.9~ GDGoc on KNU 6th Organizer
 
 ### 🏆 Award 
 - 2025.8 다움 대학생 리얼톤 우수상 (DE)
