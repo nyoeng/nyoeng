@@ -1,5 +1,5 @@
 <a href="s">
-  <img src="https://github-readme-stats-rho-six-28.vercel.app/api?username=nyoeng&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff&icon_color=fff&v=2" />
+  <img src="https://github-readme-stats-rho-six-28.vercel.app/api?username=nyoeng&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff&icon_color=fff&v=3" />
 </a>
 
 ### 🐥 Avtivity 
