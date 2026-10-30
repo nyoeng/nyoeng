@@ -15,6 +15,7 @@
 - **2026.6** 한국정보기술학회 하계종합학술대회 대학생 논문경진대회 동상
 - **2026.6** CODE:MEDI 해커톤 대상 (FE)
 - **2026.8** 2026 KERT CTF 사이버보안 경진대회 우수상
+- **2026.10** 2026 한이음 드림업 공모전 금상 (FE)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nyoeng&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/nyoeng"
